@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-22 17:17-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#: blog/models.py:10
+msgid "Name"
+msgstr "Nome"
+
+#: blog/models.py:10
+msgid "Category name"
+msgstr "Nome da Categoria"
+
+#: blog/models.py:14
+msgid "Category"
+msgstr "Categoria"
+
+#: blog/models.py:15 blog/models.py:30
+msgid "Categories"
+msgstr "Categorias"
+
+#: blog/models.py:23
+msgid "Title"
+msgstr "Título"
+
+#: blog/models.py:23
+msgid "Post title"
+msgstr "Título da publicação"
+
+#: blog/models.py:24 blog/models.py:46
+msgid "Content"
+msgstr "Conteúdo"
+
+#: blog/models.py:24
+msgid "Post content"
+msgstr "Conteúdo da publicação"
+
+#: blog/models.py:25
+msgid "Published"
+msgstr "Publicado"
+
+#: blog/models.py:25
+msgid "Post published status"
+msgstr "Status de publicação"
+
+#: blog/models.py:27 blog/models.py:48
+msgid "Author"
+msgstr "Autor"
+
+#: blog/models.py:27
+msgid "Post author"
+msgstr "Autor da publicação"
+
+#: blog/models.py:30
+msgid "Post categories"
+msgstr "Categorias da publicação"
+
+#: blog/models.py:34 blog/models.py:44
+msgid "Post"
+msgstr "Publicação"
+
+#: blog/models.py:35
+msgid "Posts"
+msgstr "Postagens"
+
+#: blog/models.py:44
+msgid "Post comment"
+msgstr "Comentário da publicação"
+
+#: blog/models.py:46
+msgid "Comment content"
+msgstr "Conteúdo do comentário"
+
+#: blog/models.py:49
+msgid "Comment author"
+msgstr "Autor do comentário"
+
+#: blog/models.py:53
+msgid "Comment"
+msgstr "Comentário"
+
+#: blog/models.py:54
+msgid "Comments"
+msgstr "Comentários"
